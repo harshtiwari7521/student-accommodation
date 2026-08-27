@@ -95,4 +95,7 @@ B.Tech – Artificial Intelligence & Machine Learning
 ### 📝 Register Page
 
 ![Register Page](register.png)
+### 👨‍🎓 Student Dashboard
+
+![Student Dashboard](student_dashboard.png)
 
