@@ -86,3 +86,6 @@ B.Tech – Artificial Intelligence & Machine Learning
 ### 🏠 Home Page
 
 ![Home Page](home%20.png)
+### 🏨 Available Rooms Page
+
+![Available Rooms](rooom.png)
