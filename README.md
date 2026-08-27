@@ -99,5 +99,8 @@ B.Tech – Artificial Intelligence & Machine Learning
 
 ![Student Dashboard](student_dashboard.png)
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/b87f6684-c6f7-4a5d-9463-a5876668c441" />
+### 📋 My Bookings Page
+
+![My Bookings](my_bookings.png)
 
 
