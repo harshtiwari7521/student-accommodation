@@ -81,3 +81,8 @@ B.Tech – Artificial Intelligence & Machine Learning
 - Advanced room search and filtering
 - Responsive mobile design
 - User profile management
+- ## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home Page](home%20.png)
