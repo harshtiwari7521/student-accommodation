@@ -102,5 +102,8 @@ B.Tech – Artificial Intelligence & Machine Learning
 ### 📋 My Bookings Page
 
 ![My Bookings](my_bookings.png)
+### 📊 Admin Bookings Page
+
+![Admin Bookings](admin_bookings.png)
 
 
