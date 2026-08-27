@@ -92,3 +92,7 @@ B.Tech – Artificial Intelligence & Machine Learning
 ### 🔐 Login Page
 
 ![Login Page](login.png)
+### 📝 Register Page
+
+![Register Page](register.png)
+
